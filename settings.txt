@@ -1,0 +1,4 @@
+Word Search-LE
+false
+/Users/dshapiro20/Desktop/
+true

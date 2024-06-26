@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Settings
+comment0.text=\n\ Controls\ settings\ for\ wring\ word\ searches\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=author\ hideWordBank\ filePath\ openWordSearch
+comment1.target=Settings(java.lang.String,\ boolean,\ java.lang.String,\ boolean)
+comment2.params=
+comment2.target=void\ save()
+comment2.text=\n\ Saves\ all\ settings\ to\ settings\ file\n
+comment3.params=
+comment3.target=java.lang.String[]\ retrieve()
+comment3.text=\n\ Gets\ all\ settings\ from\ settings\ file\n\ @return\ string\ of\ setting\ values\n
+numComments=4

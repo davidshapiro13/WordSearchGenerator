@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SearchUtility
+comment0.text=\n\ Helpful\ Word\ Search\ Utilities\n\n\ @author\ David\ Shapiro\n\ @version\ 1.0\n
+comment1.params=index\ searchTest\ word
+comment1.target=boolean\ checkOverlap(int,\ SearchLetter[][],\ java.lang.String)
+comment1.text=\n\ Determine\ if\ unique\ letters\ over\ lap\n\ @param\ index\ of\ letter\ in\ word\ search\n\ @param\ searchTest\ word\ search\ to\ add\ to\n\ @param\ word\ that\ is\ being\ added\n\ @return\ true\ if\ the\ overlap\ is\ bad,\ false\ if\ it\ isn't\n
+comment2.params=type\ startPosX\ startPosY\ size\ word
+comment2.target=boolean\ enoughSpace(int,\ int,\ int,\ int,\ java.lang.String)
+comment2.text=\n\ checks\ if\ intented\ word\ will\ fit\ in\ space\ provided\n\ @param\ type\ of\ positioning\n\ @param\ starting\ x\ position\ of\ word\n\ @param\ starting\ y\ position\ of\ word\n\ @param\ size\ of\ puzzle\ width\n\ @param\ word\ to\ position\n\ @return\ true\ if\ it\ does;\ false\ otherwise\n
+comment3.params=level
+comment3.target=int[]\ getTypes(int)
+comment3.text=\n\ Finds\ list\ of\ types\ to\ choose\ from\ based\ on\ level\n\ @param\ level\ of\ challenge\n\ @return\ array\ of\ arrangement\ codes\n
+comment4.params=level
+comment4.target=boolean[]\ getForms(int)
+comment4.text=\n\ gives\ set\ of\ orientation\ codes,\ based\ on\ level\n\ @param\ level\n\ @return\ orientations\ of\ words\n
+numComments=5
